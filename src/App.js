@@ -100,8 +100,8 @@ class App extends React.Component {
               onHandleInputChange={this.handleInputChange}
               onHandleSubmit={this.handleSubmit}
             />
-            <h4>TodoFormik</h4>
-            <TodoFormik />
+            {/* <h4>TodoFormik</h4>
+            <TodoFormik /> */}
           </div>
         </div>
       </div>

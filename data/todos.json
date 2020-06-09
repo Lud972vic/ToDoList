@@ -29,6 +29,12 @@
       "dueDate": "28/05/2020",
       "completed": false,
       "id": 5
+    },
+    {
+      "title": "Mettre le projet sur Git",
+      "dueDate": "09/06/2020",
+      "completed": true,
+      "id": 6
     }
   ]
 }
